@@ -1,0 +1,102 @@
+Modules List :: 1.javascript
+                2.String
+                3.array
+               
+//////////////////////     javascript          ///////////////////////////
+
+arrow function,callback,promise,async/await,callback vs promisevs await,spread,reduce,
+reference values,rest parameter,.dot vs []bracket notation,js argument,closure,iiff,
+deep vs shallow,bind vs call vs apply,object short-hand,map data type,set data type,
+De-structuring,CURRING
+
+//////////////////////     String          ///////////////////////////
+
+ length,replace(),indexOf(),lastIndexOf(),startsWith(),endsWith(),toUpperCase(),toLowerCase(),
+ includes(),repeat(),charAt(),charCodeAt(),fromCharCode(),substring(),padStart(),padEnd(),
+ codePointAt(),fromCodePoint(),match(),matchAll(),localeCompare(),search(),replaceAll(),
+ concat(),split(),trim(),slice()
+
+//////////////////////     array        ///////////////////////////
+
+ length,reverse(),sort(),fill(),join(),toString(),pop(),shift(),push(),unshift(),concat()
+ splice(),lastIndexOf(),indexOf(),of(),slice(),findIndex(),find(),includes(),reduceRight(),
+ reduce(),isArray(),filter(),map(),forEach(),some(),every(),entries(),keys(),values(),from(),
+ constructor,copyWithin(),toLocaleString(),flat(),flatMap()
+
+ //////////advanced
+
+ /////////////JavaScript Introduction
+Getting Started With JavaScript
+JS Variables and Constants
+JS console.log()
+JavaScript Data Types
+JavaScript Operators
+JavaScript Comments
+JavaScript Type Conversions
+
+///////////////JavaScript Control Flow
+Comparison and Logical Operators
+JavaScript if...else Statement
+JavaScript for Loop
+JavaScript while Loop
+JavaScript break Statement
+JavaScript continue Statement
+JavaScript switch Statement
+
+////////////////JavaScript Functions
+JavaScript Functions and Expressions
+JavaScript Variable Scope
+JavaScript Hoisting
+JavaScript Recursion
+
+//////////////JavaScript Objects
+JavaScript Objects
+JavaScript Methods
+JavaScript Constructor Function
+JavaScript Getters and Setters
+JavaScript Prototype
+
+/////////JavaScript Types
+JavaScript Arrays
+JavaScript Multidimensional Arrays
+JavaScript Strings
+JavaScript for...in Loop
+JavaScript Numbers
+JavaScript Symbols
+
+///////////JavaScript Exceptions & Modules
+JavaScript try...catch...finally
+JavaScript throw Statement
+JavaScript Modules
+////////////////////////JavaScript ES6
+JavaScript ES6
+JavaScript Arrow Function
+JavaScript Default Parameters
+JavaScript Template Literals
+JavaScript Spread Operator
+JavaScript Map
+JavaScript Set
+JS Destructuring Assignment
+JavaScript Classes
+JavaScript Inheritance
+JavaScript for...of Loop
+JavaScript Proxies
+
+/////////////////JavaScript Asynchronous
+JavaScript setTimeout()
+JavaScript CallBack
+JavaScript Promises
+JavaScript async/await
+JavaScript setInterval()
+
+//////////////////////JS Miscellaneous
+JavaScript JSON
+JavaScript Date and Time
+JavaScript Closures
+JavaScript this
+JavaScript 'use strict'
+JS Iterators and Iterables
+JavaScript Generators
+JavaScript Regex
+JavaScript Browser Debugging
+Uses of JavaScript
